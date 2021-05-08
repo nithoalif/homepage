@@ -34,6 +34,6 @@ a:focus {
 
 .link-container {
   display: inline-grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: repeat(5, auto);
   align-items: center;
 }
